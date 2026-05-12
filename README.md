@@ -9,7 +9,6 @@ This project analyzes Philadelphia's Indego Bike Share program using Q3 2025 tri
 
 ## Dataset 📊
 
-> ⚠️ **Dataset not included in this repository due to file size limitations.**
 > Download the Q3 2025 trip data directly from the official Indego website:
 > 👉 https://www.rideindego.com/about/data/
 
